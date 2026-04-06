@@ -21,4 +21,10 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw?  
+
+.env
+backend/.env
+node_modules/
+dist/
+build/
